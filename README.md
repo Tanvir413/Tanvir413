@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanvir Alam Ripon</h1>
 <h3 align="center">I am a Web Developer.Passionate web developer skilled in HTML, CSS, JavaScript, and React. Experienced in creating responsive, user-friendly websites. Strong problem-solving abilities and a keen eye for design and functionality.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U.jpg">
+<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/07/01/73/66/1000_F_701736651_kY76FljsDflP7QTs5nC2cYe88QDIo6wL.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir413&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir413" /> </p>
 
