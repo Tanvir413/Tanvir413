@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanvir Alam Ripon</h1>
 <h3 align="center">I am a Web Developer.Passionate web developer skilled in HTML, CSS, JavaScript, and React. Experienced in creating responsive, user-friendly websites. Strong problem-solving abilities and a keen eye for design and functionality.</h3>
+<img align="right" alt="codding" width="400" src="https://lottiefiles.com/free-animation/programming-5mm6nHIaKa">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir413&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir413" /> </p>
 
